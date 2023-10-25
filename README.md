@@ -1,6 +1,7 @@
 # DBSearchColabOpenAI
 Natural Language Search to return pdf using OpenAI embedding model
-Requires OpenAI API key
+Requires OpenAI API key.
+Create a file in GoogleDrive called PDFs
 Put PDFs in file MyDrive/PDFs
 Creates a Vector database MyDrive/VecDB
 On each run, it will check if any new pdfs have been added to the PDFs file, and if so, will add them to the database.
