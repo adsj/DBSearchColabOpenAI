@@ -1,5 +1,5 @@
 # DBSearchColabOpenAI
-Natural Language Search to return pdf using OpenAI embedding model.  
+Natural Language Search to return pdf using OpenAI embedding model.  <br />
 Requires OpenAI API key.  
 Create a file in GoogleDrive called PDFs.  
 Put PDFs in file MyDrive/PDFs.  
